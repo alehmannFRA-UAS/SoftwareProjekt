@@ -29,6 +29,7 @@
 				// SpellChecker configurations
 				"cSpell.language": "en, de",
 				"cSpell.ignorePaths": [
+					"*.md",				   // Ignore the .md file 
 					".git",                // Ignore the .git directory
 					"*.json",              // Ignore all .json files.
 					"*.xml"                // Ignore all .xml files.
