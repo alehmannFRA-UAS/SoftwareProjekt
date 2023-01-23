@@ -7,7 +7,7 @@
 - Warten Sie bitte ca. 2-5 Minuten, bis die Entwicklungsumgebung erstellt und nutzbar ist.
 - Im Ordner src/main/java finden Sie die Quellcodedateien, hier App.java.
 - Im Ordner src/test/java finden Sie die Testdateien, hier AppTest.java.
-- unter Java Projects zunächst Projekte importieren auswählen.
+- Im nächsten Schritt bitte unter Java Projects zunächst Projekte importieren auswählen.
 - Führen Sie das Programm App aus. Wählen Sie dazu unter Ausführen und Debuggen Launch App aus.
 - Erweitern Sie nun das erste Programm so, dass auch eine Eingabe in der Konsole in Eclipse möglich ist. Das Programm soll einen Wert aus der Konsole lesen und 10-mal ausgeben. Das Programm könnte wie folgt ablaufen.
   Zuerst wird der Benutzer aufgefordert eine Eingabe zu tätigen.
