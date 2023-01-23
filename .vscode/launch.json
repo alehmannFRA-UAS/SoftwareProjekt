@@ -14,7 +14,7 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "edu.fra.uas.App",
         }
