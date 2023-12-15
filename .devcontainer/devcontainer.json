@@ -37,10 +37,20 @@
 			},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
+				"streetsidesoftware.code-spell-checker-german",
+				"MS-CEINTL.vscode-language-pack-de",
 				"shengchen.vscode-checkstyle",
 				"tenninebt.vscode-koverage",
 				"redhat.java",
-				"sonarsource.sonarlint-vscode"
+				"sonarsource.sonarlint-vscode",
+				"vscjava.vscode-java-pack",
+				"mhutchie.git-graph",
+				"eamodio.gitlens",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"DavidAnson.vscode-markdownlint",
+				"ms-vscode.notepadplusplus-keybindings",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
 			]
 		}
 	}
