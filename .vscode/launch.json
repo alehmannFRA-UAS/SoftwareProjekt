@@ -3,20 +3,170 @@
     // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
     // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [        
+    "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Main",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "builder.Main",
+            "projectName": "SoftwareProjekt_5cae25a"
         },
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Main",
             "request": "launch",
-            "console": "integratedTerminal",
-            "stopOnEntry": false,
-            "mainClass": "edu.fra.uas.App",
+            "mainClass": "immutable.Main",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "singleton.Main",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "EncodingFile",
+            "request": "launch",
+            "mainClass": "EncodingFile",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "GZipProgram",
+            "request": "launch",
+            "mainClass": "GZipProgram",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "AgeCheck",
+            "request": "launch",
+            "mainClass": "AgeCheck",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Division",
+            "request": "launch",
+            "mainClass": "Division",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "TestGenericClass",
+            "request": "launch",
+            "mainClass": "TestGenericClass",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "GenericMethod",
+            "request": "launch",
+            "mainClass": "GenericMethod",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "BlockBusterTest",
+            "request": "launch",
+            "mainClass": "BlockBusterTest",
+            "projectName": "SoftwareProjekt_5cae25a"
+        },
+        {
+            "type": "java",
+            "name": "Klassen",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppClasses"
+        },
+        {
+            "type": "java",
+            "name": "Vererbung",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppInheritance"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppInterfaces"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppAbstracts"
+        },
+        {
+            "type": "java",
+            "name": "Generics",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppGenerics"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppExceptions"
+        },
+        {
+            "type": "java",
+            "name": "AppInnerClasses",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppInnerClasses"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppPattern"
+        },
+        {
+            "type": "java",
+            "name": "StreamIO",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppStreamIO"
+        },
+        {
+            "type": "java",
+            "name": "AppEvents",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppEvents"
+        },
+        {
+            "type": "java",
+            "name": "AppThreads",
+            "request": "launch",
+            "mainClass": "edu.fra.uas.AppThreads"
         }
     ]
 }
